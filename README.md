@@ -12,7 +12,7 @@
 ## Description
 The Invisible Cloak Project is an exciting experiment in the realm of computer vision using Python and OpenCV. This project allows you to create a real-life "invisible cloak" effect, similar to what you might have seen in science fiction or fantasy movies. By leveraging the power of computer vision, you can make objects covered in a specific color appear transparent, effectively creating the illusion of invisibility.
 
-![Invisible Cloak](Screenshot (2).png)
+![Invisible Cloak](Screenshot%20%282%29.png)
 
 ## Features
 - **Real-Time Invisibility**: Experience the magic of an invisibility cloak in real-time through your webcam.
@@ -60,9 +60,9 @@ To exit the program, press the 'q' key.
 
 ## Screenshots
 
-1)  ![Invisible Cloak](Screenshot (2).png)
+1)  ![Invisible Cloak](Screenshot%20%282%29.png)
 
-2)  ![Invisible Cloak](Screenshot (3).png)
+2)  ![Invisible Cloak](Screenshot%20%283%29.png)
 
 ## Contributing
 
